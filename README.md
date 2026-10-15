@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Abhijeet Dubey
 
-📱 **Android Developer** **
+📱 **Android Developer** 
 
 - 🔭 Building Android applications and exploring real-world software projects
 - 🌱 Currently learning **Kotlin, Jetpack Compose** & Android development internals
