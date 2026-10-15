@@ -1,16 +1,12 @@
-## Hi there 👋
+## 👋 Hi, I'm Abhijeet Dubey
 
-<!--
-**0xAbhiiiijeeet/0xAbhiiiijeeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 **Android Developer** **
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Building Android applications and exploring real-world software projects
+- 🌱 Currently learning **Kotlin, Jetpack Compose** & Android development internals
+- 💻 Exploring **Flutter & backend development**
+- 🧠 Practicing **Data Structures & Algorithms** and problem-solving
+- 👯 Open to collaborating on **Android apps, full-stack projects** & open-source
+- 💬 Ask me about Kotlin, Jetpack Compose, Flutter, and application development
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhijeetdubey12/)
+- 😄 Pronouns: He/Him
